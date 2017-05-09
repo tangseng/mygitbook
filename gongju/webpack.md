@@ -65,3 +65,7 @@ webpack是一个在开发阶段所使用的模块打包工具，本身可以将�
 **相关文章**
 * [官方中文文档](https://doc.webpack-china.org/concepts/)
 * [webpack2 终极优化](https://github.com/gwuhaolin/blog/issues/2)
+* [彻底解决Webpack打包慢的问题](https://segmentfault.com/a/1190000006087638)
+* [开发工具心得：如何 10 倍提高你的 Webpack 构建效率](https://segmentfault.com/a/1190000005770042)
+* [如何在 webpack 中引入未模块化的库](https://sebastianblade.com/how-to-import-unmodular-library-like-zepto/)
+* [详解Webpack2的那些路径](http://www.qinshenxue.com/article/20170315092242.html)

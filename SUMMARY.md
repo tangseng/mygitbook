@@ -41,6 +41,7 @@
 * [工具](gongju/README.md)
     * [Gulp](gongju/gulp.md)
     * [Webpack](gongju/webpack.md)
+    * [Babel](gongju/babel.md)
 * [其他](qita/README.md)
     * [虚拟DOM](qita/vdom.md)
     * [脏数据检测](qita/dirty.md)
