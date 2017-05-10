@@ -7,3 +7,9 @@
 即：Object.getPrototypeOf(a) === 构造函数.prototype
 -   如果刚才说的构造函数的prototype指向的是另外一个构造函数的实例对象，那么此时已经实现所谓了继承。
 -   因为基于原型链的，所以在JS称为“原型继承”。跟其他语言的继承（复制机制）有很大区别的。
+
+![原型图](../assert/prototype.png)
+
+**相关文章**
+* [JavaScript深入之从原型到原型链](https://github.com/mqyqingfeng/Blog/issues/2)
+* [震惊！原来你是这样的原型继承。。。](http://www.jianshu.com/p/e858f729bf4c)
