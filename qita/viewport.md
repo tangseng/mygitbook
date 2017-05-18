@@ -25,3 +25,5 @@
 **相关文章**
 * [【全解析】屏幕尺寸，分辨率，像素，PPI之间到底什么关系？](http://www.chanpin100.com/article/20652)
 * [移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
+* [基于vw等viewport视区单位配合rem响应式排版和布局](http://www.zhangxinxu.com/wordpress/2016/08/vw-viewport-responsive-layout-typography/)
+* [如何开发一个移动web UI组件库：适配篇](https://github.com/youngwind/blog/issues/82)

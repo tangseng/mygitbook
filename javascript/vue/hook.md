@@ -1,5 +1,7 @@
 # 生命周期及钩子
 
+![vue-lifecycle](../../assert/vue-lifecycle.png)
+
 **钩子：**
 * beforeCreate  -> 绑定数据 -> 初始化事件
 * created -> 是否有el设置（有就等$mounted事件触发，没有就如下一步） -> 是否有template值（有就编译模板进render函数，没有就前面的el的outHTML做为模板编译进render函数）

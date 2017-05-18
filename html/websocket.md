@@ -23,6 +23,9 @@ websocket客户端api：
         console.log('error')
     }
 
+![websocket与http](../assert/websocket.jpg)
+
 
 **相关文章**
 * [WebSocket 实战](https://www.ibm.com/developerworks/cn/java/j-lo-WebSocket/index.html)
+* [WebSocket 教程](http://www.ruanyifeng.com/blog/2017/05/websocket.html)

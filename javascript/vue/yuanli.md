@@ -1,5 +1,7 @@
 # 响应式原理
 
+![响应式原理](../../assert/vue-watcher.png)
+
 **原理：**
 *   所有传入data中的数据都会被Vue通过Object.definePorperty进行getter/setter设置。组件实例化时都会有相应的watcher对象，组件中的所有属性都会被watcher记录为依赖项，当依赖项被调用setter时，watcher会进行重新计算，进而重新渲染组件。
 *   受限于js的限制，vue不能监测到属性的动态添加和删除。因此Vue不支持动态添加根级属性，所有的属性必须在组件初始化的时候添加进data并进行getter/setter。但是可以对属性的子属性进行添加/修改。并且需要使用Vue.set或者vm.$set，或者替换属性引用来让watcher检测到更新。
