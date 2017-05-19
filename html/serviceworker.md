@@ -1,4 +1,4 @@
-# service worker
+# Service Worker
 
 ![sw](../assert/sw.svg)
 

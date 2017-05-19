@@ -1,4 +1,4 @@
-# babel
+# Babel
 
 **Babel是一个通用的多用途的Javascript编译器**
 > Babel把用最新标准编写的Javascript代码向下编译成可以在今天随处可用的版本。本身这一过程叫做“源码到源码”的编译，也被称为转换编译。
