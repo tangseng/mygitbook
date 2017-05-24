@@ -7,3 +7,7 @@
 * *jsx*：react提出的一种语法，可以将html直接写进js代码中
 * *virturl dom*：virturl dom是一个纯粹的js数据结构，组件的真实dom结构会映射到virturl dom上，virturl dom实现了diff算法，当组件的state状态改变时，react会调用组件的render方法重新渲染UI
 * *data flow*：单向数据绑定
+
+
+**相关文章**
+* [React官方文档](https://facebook.github.io/react/)
